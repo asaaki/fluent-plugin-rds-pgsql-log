@@ -1,3 +1,4 @@
 *.gem
 fluent.conf
-
+coverage
+Gemfile.lock
